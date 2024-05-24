@@ -19,4 +19,14 @@ In this, if we dive into React's `createElement`, its output in object format wi
 
 - **Element Tag**: `'h1'`
 - **Properties**: `{id: "Heading", abc: 'xyz'}`
+
 - **Children**: `'hello world'`
+
+This is how it appears in the console.
+```yaml
+props:
+  abc: "xyz"
+  children: "hello world"
+  id: "Heading"
+```
+
