@@ -1,6 +1,6 @@
 ## Episode  - 01
 
-# Understanding React and Its Libraries
+### Understanding React and Its Libraries
 
 - **Modular Functionality**: Use individual components or entire pages by calling specific IDs.
 - **Core Libraries**:
