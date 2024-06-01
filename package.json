@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "This is npm checking in the file",
   "scripts": {
-    "test": "jest",
-    "start": "rm -rf .parcel-cache && parcel",
-    "build": "rm -rf .parcel-cache && parcel build"
+    "start" : "parcel index.html",
+    "build" : "parcel index.js",
+    "test": "jest"
   },
   "keywords": [
     "honnappa",
